@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sarvesh
-- 👀 I’m interested in web & mobile development
-- 🌱 I’m currently learning frontend web development
+- 👀 I’m interested in web  development
+- 🌱 I’m currently working as a fullstack developer
 - 📫 How to reach me ...
 www.linkedin.com/in/sarvesh-bhatt-820a111b6
 
